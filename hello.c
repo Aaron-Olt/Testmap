@@ -13,7 +13,7 @@ olt//#include <linux/kernel.h>
 
 	
 
-//DEFINE_PER_CPU(int,per_cpu_n); wird nicht funktionieren , benötigt standart Type
+//DEFINE_PER_CPU(int,per_cpu_n); wird nicht funktionieren , benötigt Standard Typ
 /*
 Alternativen	Fixmapped memory
 
