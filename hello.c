@@ -16,7 +16,9 @@ olt//#include <linux/kernel.h>
 //DEFINE_PER_CPU(int,per_cpu_n); wird nicht funktionieren , benötigt standart Type
 /*
 Alternativen	Fixmapped memory
+
 		Pages of pages 
+
 		pcpu_embed_first_chunck & setup_percpu_segment 
 		- alternative implementierung von percpu mithilfe unterliegender Funktionen
 		
