@@ -23,6 +23,7 @@ Alternativen	Fixmapped memory
 		- alternative implementierung von percpu mithilfe unterliegender Funktionen
 		
 		dynamic percpu allocator https://lwn.net/Articles/1509/ ... __alloc_percpu
+
 		anstelle von percpu struct , struct of percpu variables
  */
  
