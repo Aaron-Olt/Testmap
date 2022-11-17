@@ -1,4 +1,4 @@
-olt//#include <linux/kernel.h>
+//#include <linux/kernel.h>
 #include <linux/module.h>
 //#include <linux/getcpu.h>
 //#include <sys/sysinfo.h>
